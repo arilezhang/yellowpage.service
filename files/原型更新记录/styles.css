@@ -17,7 +17,7 @@
   left:10px;
   top:27px;
   width:605px;
-  height:446px;
+  height:361px;
 }
 #u1_img {
   position:absolute;
@@ -209,21 +209,22 @@
   left:0px;
   top:0px;
   width:59px;
-  height:106px;
+  height:21px;
 }
 #u17 {
   position:absolute;
   left:0px;
   top:54px;
   width:59px;
-  height:106px;
+  height:21px;
   font-size:12px;
 }
 #u18 {
   position:absolute;
   left:2px;
-  top:46px;
+  top:2px;
   width:55px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u19_img {
@@ -231,21 +232,22 @@
   left:0px;
   top:0px;
   width:88px;
-  height:106px;
+  height:21px;
 }
 #u19 {
   position:absolute;
   left:59px;
   top:54px;
   width:88px;
-  height:106px;
+  height:21px;
   font-size:12px;
 }
 #u20 {
   position:absolute;
   left:2px;
-  top:46px;
+  top:2px;
   width:84px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u21_img {
@@ -253,21 +255,22 @@
   left:0px;
   top:0px;
   width:74px;
-  height:106px;
+  height:21px;
 }
 #u21 {
   position:absolute;
   left:147px;
   top:54px;
   width:74px;
-  height:106px;
+  height:21px;
   font-size:12px;
 }
 #u22 {
   position:absolute;
   left:2px;
-  top:44px;
+  top:2px;
   width:70px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u23_img {
@@ -275,14 +278,14 @@
   left:0px;
   top:0px;
   width:379px;
-  height:106px;
+  height:21px;
 }
 #u23 {
   position:absolute;
   left:221px;
   top:54px;
   width:379px;
-  height:106px;
+  height:21px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -294,6 +297,7 @@
   left:2px;
   top:2px;
   width:375px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u25_img {
@@ -306,7 +310,7 @@
 #u25 {
   position:absolute;
   left:0px;
-  top:160px;
+  top:75px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -329,7 +333,7 @@
 #u27 {
   position:absolute;
   left:59px;
-  top:160px;
+  top:75px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -352,7 +356,7 @@
 #u29 {
   position:absolute;
   left:147px;
-  top:160px;
+  top:75px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -375,7 +379,7 @@
 #u31 {
   position:absolute;
   left:221px;
-  top:160px;
+  top:75px;
   width:379px;
   height:20px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -402,7 +406,7 @@
 #u33 {
   position:absolute;
   left:0px;
-  top:180px;
+  top:95px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -425,7 +429,7 @@
 #u35 {
   position:absolute;
   left:59px;
-  top:180px;
+  top:95px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -448,7 +452,7 @@
 #u37 {
   position:absolute;
   left:147px;
-  top:180px;
+  top:95px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -471,7 +475,7 @@
 #u39 {
   position:absolute;
   left:221px;
-  top:180px;
+  top:95px;
   width:379px;
   height:20px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -499,7 +503,7 @@
 #u41 {
   position:absolute;
   left:0px;
-  top:200px;
+  top:115px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -522,7 +526,7 @@
 #u43 {
   position:absolute;
   left:59px;
-  top:200px;
+  top:115px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -545,7 +549,7 @@
 #u45 {
   position:absolute;
   left:147px;
-  top:200px;
+  top:115px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -568,7 +572,7 @@
 #u47 {
   position:absolute;
   left:221px;
-  top:200px;
+  top:115px;
   width:379px;
   height:20px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -596,7 +600,7 @@
 #u49 {
   position:absolute;
   left:0px;
-  top:220px;
+  top:135px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -619,7 +623,7 @@
 #u51 {
   position:absolute;
   left:59px;
-  top:220px;
+  top:135px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -642,7 +646,7 @@
 #u53 {
   position:absolute;
   left:147px;
-  top:220px;
+  top:135px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -665,7 +669,7 @@
 #u55 {
   position:absolute;
   left:221px;
-  top:220px;
+  top:135px;
   width:379px;
   height:20px;
   font-size:12px;
@@ -689,7 +693,7 @@
 #u57 {
   position:absolute;
   left:0px;
-  top:240px;
+  top:155px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -712,7 +716,7 @@
 #u59 {
   position:absolute;
   left:59px;
-  top:240px;
+  top:155px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -735,7 +739,7 @@
 #u61 {
   position:absolute;
   left:147px;
-  top:240px;
+  top:155px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -758,7 +762,7 @@
 #u63 {
   position:absolute;
   left:221px;
-  top:240px;
+  top:155px;
   width:379px;
   height:20px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -785,7 +789,7 @@
 #u65 {
   position:absolute;
   left:0px;
-  top:260px;
+  top:175px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -808,7 +812,7 @@
 #u67 {
   position:absolute;
   left:59px;
-  top:260px;
+  top:175px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -831,7 +835,7 @@
 #u69 {
   position:absolute;
   left:147px;
-  top:260px;
+  top:175px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -854,7 +858,7 @@
 #u71 {
   position:absolute;
   left:221px;
-  top:260px;
+  top:175px;
   width:379px;
   height:20px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -881,7 +885,7 @@
 #u73 {
   position:absolute;
   left:0px;
-  top:280px;
+  top:195px;
   width:59px;
   height:21px;
   font-size:12px;
@@ -904,7 +908,7 @@
 #u75 {
   position:absolute;
   left:59px;
-  top:280px;
+  top:195px;
   width:88px;
   height:21px;
   font-size:12px;
@@ -927,7 +931,7 @@
 #u77 {
   position:absolute;
   left:147px;
-  top:280px;
+  top:195px;
   width:74px;
   height:21px;
   font-size:12px;
@@ -950,7 +954,7 @@
 #u79 {
   position:absolute;
   left:221px;
-  top:280px;
+  top:195px;
   width:379px;
   height:21px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -977,7 +981,7 @@
 #u81 {
   position:absolute;
   left:0px;
-  top:301px;
+  top:216px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -1000,7 +1004,7 @@
 #u83 {
   position:absolute;
   left:59px;
-  top:301px;
+  top:216px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -1023,7 +1027,7 @@
 #u85 {
   position:absolute;
   left:147px;
-  top:301px;
+  top:216px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -1046,7 +1050,7 @@
 #u87 {
   position:absolute;
   left:221px;
-  top:301px;
+  top:216px;
   width:379px;
   height:20px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -1073,7 +1077,7 @@
 #u89 {
   position:absolute;
   left:0px;
-  top:321px;
+  top:236px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -1096,7 +1100,7 @@
 #u91 {
   position:absolute;
   left:59px;
-  top:321px;
+  top:236px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -1119,7 +1123,7 @@
 #u93 {
   position:absolute;
   left:147px;
-  top:321px;
+  top:236px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -1142,7 +1146,7 @@
 #u95 {
   position:absolute;
   left:221px;
-  top:321px;
+  top:236px;
   width:379px;
   height:20px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -1169,7 +1173,7 @@
 #u97 {
   position:absolute;
   left:0px;
-  top:341px;
+  top:256px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -1192,7 +1196,7 @@
 #u99 {
   position:absolute;
   left:59px;
-  top:341px;
+  top:256px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -1215,7 +1219,7 @@
 #u101 {
   position:absolute;
   left:147px;
-  top:341px;
+  top:256px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -1238,7 +1242,7 @@
 #u103 {
   position:absolute;
   left:221px;
-  top:341px;
+  top:256px;
   width:379px;
   height:20px;
   font-size:12px;
@@ -1261,7 +1265,7 @@
 #u105 {
   position:absolute;
   left:0px;
-  top:361px;
+  top:276px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -1284,7 +1288,7 @@
 #u107 {
   position:absolute;
   left:59px;
-  top:361px;
+  top:276px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -1307,7 +1311,7 @@
 #u109 {
   position:absolute;
   left:147px;
-  top:361px;
+  top:276px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -1330,7 +1334,7 @@
 #u111 {
   position:absolute;
   left:221px;
-  top:361px;
+  top:276px;
   width:379px;
   height:20px;
   font-size:12px;
@@ -1353,7 +1357,7 @@
 #u113 {
   position:absolute;
   left:0px;
-  top:381px;
+  top:296px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -1376,7 +1380,7 @@
 #u115 {
   position:absolute;
   left:59px;
-  top:381px;
+  top:296px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -1399,7 +1403,7 @@
 #u117 {
   position:absolute;
   left:147px;
-  top:381px;
+  top:296px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -1422,7 +1426,7 @@
 #u119 {
   position:absolute;
   left:221px;
-  top:381px;
+  top:296px;
   width:379px;
   height:20px;
   font-size:12px;
@@ -1445,7 +1449,7 @@
 #u121 {
   position:absolute;
   left:0px;
-  top:401px;
+  top:316px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -1468,7 +1472,7 @@
 #u123 {
   position:absolute;
   left:59px;
-  top:401px;
+  top:316px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -1491,7 +1495,7 @@
 #u125 {
   position:absolute;
   left:147px;
-  top:401px;
+  top:316px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -1514,7 +1518,7 @@
 #u127 {
   position:absolute;
   left:221px;
-  top:401px;
+  top:316px;
   width:379px;
   height:20px;
   font-size:12px;
@@ -1537,7 +1541,7 @@
 #u129 {
   position:absolute;
   left:0px;
-  top:421px;
+  top:336px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -1560,7 +1564,7 @@
 #u131 {
   position:absolute;
   left:59px;
-  top:421px;
+  top:336px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -1583,7 +1587,7 @@
 #u133 {
   position:absolute;
   left:147px;
-  top:421px;
+  top:336px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -1606,7 +1610,7 @@
 #u135 {
   position:absolute;
   left:221px;
-  top:421px;
+  top:336px;
   width:379px;
   height:20px;
   font-size:12px;
