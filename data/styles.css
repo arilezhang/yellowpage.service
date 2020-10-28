@@ -7,6 +7,15 @@
   text-align:center;
   line-height:normal;
 }
+._形状 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 ._图片 {
 }
 .button {
@@ -91,7 +100,7 @@
 .primary_button {
   color:#FFFFFF;
 }
-._形状 {
+._形状1 {
 }
 ._一级标题1 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -132,7 +141,7 @@
 }
 .ellipse {
 }
-._形状1 {
+._形状2 {
 }
 .checkbox {
   text-align:left;
