@@ -17,7 +17,7 @@
   left:10px;
   top:27px;
   width:605px;
-  height:1111px;
+  height:1129px;
 }
 #u1_img {
   position:absolute;
@@ -1294,10 +1294,6 @@
   top:973px;
   width:379px;
   height:38px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:12px;
   color:#FF0000;
   text-align:left;
 }
@@ -1409,22 +1405,22 @@
   left:0px;
   top:0px;
   width:59px;
-  height:20px;
+  height:38px;
 }
 #u121 {
   position:absolute;
   left:0px;
   top:1066px;
   width:59px;
-  height:20px;
+  height:38px;
   font-size:12px;
+  color:#FF0000;
 }
 #u122 {
   position:absolute;
   left:2px;
-  top:2px;
+  top:12px;
   width:55px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u123_img {
@@ -1432,22 +1428,22 @@
   left:0px;
   top:0px;
   width:88px;
-  height:20px;
+  height:38px;
 }
 #u123 {
   position:absolute;
   left:59px;
   top:1066px;
   width:88px;
-  height:20px;
+  height:38px;
   font-size:12px;
+  color:#FF0000;
 }
 #u124 {
   position:absolute;
   left:2px;
-  top:2px;
+  top:12px;
   width:84px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u125_img {
@@ -1455,22 +1451,22 @@
   left:0px;
   top:0px;
   width:74px;
-  height:20px;
+  height:38px;
 }
 #u125 {
   position:absolute;
   left:147px;
   top:1066px;
   width:74px;
-  height:20px;
+  height:38px;
   font-size:12px;
+  color:#FF0000;
 }
 #u126 {
   position:absolute;
   left:2px;
-  top:2px;
+  top:10px;
   width:70px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u127_img {
@@ -1478,22 +1474,22 @@
   left:0px;
   top:0px;
   width:379px;
-  height:20px;
+  height:38px;
 }
 #u127 {
   position:absolute;
   left:221px;
   top:1066px;
   width:379px;
-  height:20px;
-  font-size:12px;
+  height:38px;
+  color:#FF0000;
+  text-align:left;
 }
 #u128 {
   position:absolute;
   left:2px;
   top:2px;
   width:375px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u129_img {
@@ -1506,7 +1502,7 @@
 #u129 {
   position:absolute;
   left:0px;
-  top:1086px;
+  top:1104px;
   width:59px;
   height:20px;
   font-size:12px;
@@ -1529,7 +1525,7 @@
 #u131 {
   position:absolute;
   left:59px;
-  top:1086px;
+  top:1104px;
   width:88px;
   height:20px;
   font-size:12px;
@@ -1552,7 +1548,7 @@
 #u133 {
   position:absolute;
   left:147px;
-  top:1086px;
+  top:1104px;
   width:74px;
   height:20px;
   font-size:12px;
@@ -1575,7 +1571,7 @@
 #u135 {
   position:absolute;
   left:221px;
-  top:1086px;
+  top:1104px;
   width:379px;
   height:20px;
   font-size:12px;
